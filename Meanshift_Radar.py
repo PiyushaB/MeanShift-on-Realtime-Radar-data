@@ -49,12 +49,6 @@ X3.reset_index(drop=True)
 #Checking the length of extracted tiestamd data in X3
 len(X3)
 
-
-# In[ ]:
-
-#http://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html#sphx-glr-auto-examples-cluster-plot-mean-shift-py
-
-
 # In[47]:
 
 #reshaping the sequence into 2D array because of the syntax requirements
